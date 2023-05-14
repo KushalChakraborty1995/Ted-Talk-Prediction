@@ -1,3 +1,5 @@
+![166883947-24571cd0-a806-47d9-9a00-87f76cd015f9](https://github.com/KushalChakraborty1995/Ted-Talk-Prediction/assets/114491920/638dfebc-8118-4299-8817-323c71be5ca3)
+
 ## Ted-Talk-Prediction
 
 ## Introduction:-

@@ -53,26 +53,26 @@ transcript : Full transcript of the talk
 
 ## Python Libraries used:-
 
-# Datawrangling and manipulation:
+### Datawrangling and manipulation:
 
 Numpy
 Pandas
 
-# Visualization:
+### Visualization:
 
 Matplotib
 Seaborn
 
-# Machine learning Models:
+### Machine learning Models:
 
 Scikit-Learn
 
-# Others:
+### Others:
 
 datetime
 warnings
 
-## Models:-
+### Models:-
 In this project we are implementing 7 machine learning algorithms to predict the target variable and then we'll apply optimization techniques on the one that gives best resulting accuracy out of all.
 
 Following algorithms have been used for predictions:-

@@ -87,3 +87,10 @@ Decision Tree
 Random Forest Regression
 XGB Regression
 ## Notable Findings:-
+
+In all these models our errors have been in the range of 2,00,000 which is around 10% of the average views. The model has been able to correctly predict views 90% of the time. After hyper parameter tuning, we have prevented overfitting and decreased errors by regularizing and reducing learning rate. Given that only have 10% errors, our models have performed very well on unseen data due to various factors like feature selection, correct model selection.
+
+After evaluating the performance of all the models, the best model is Random Forest Regressor based on MAE because MAE is linear and robust to outliers.
+
+![istockphoto-1132817705-612x612](https://github.com/KushalChakraborty1995/Ted-Talk-Prediction/assets/114491920/3d07057a-c502-4ac6-b29b-d9594e6fb313)
+
